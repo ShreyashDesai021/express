@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+# Shreyash Desai
+
 ## Table of contents
 
 * [Installation](#Installation)
